@@ -1,16 +1,15 @@
 ---
-name: Tails Azimuth
+name: Atiq Urrehaman
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Student of Artificial Intelligence
+company: B.Tech CSE @ UPES
+twitter: https://twitter.com/atiq_urrehaman
+linkedin: https://www.linkedin.com/in/atiq-urrehaman
+github: https://github.com/Adam-Al-Rahman
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Atiq Urrehaman is a B.tech Computer Science student specialization in Artificial Intelligence at the [UPES](https://www.upes.ac.in/about-us/history) university.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He enjoy reading, researching & creating things. His interest in coding started, when he heard python programming language in one of a physics videos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Fast-forward to today, and he is studying in one of the well known college in India UPES located at Dehradun.

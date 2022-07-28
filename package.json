@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-nextjs-starter-blog",
+  "name": "e-portfolio",
   "version": "1.5.6",
   "private": true,
   "scripts": {
@@ -69,5 +69,9 @@
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
       "prettier --write"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Adam-Al-Rahman/e-portfolio.git",
+  "author": "Adam-Al-Rahman <quodscientialegis@gmail.com>",
+  "license": "MIT"
 }
