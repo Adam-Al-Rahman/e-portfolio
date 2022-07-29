@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "It's a report of social internship",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'atiq-urrehaman.vercel.app',
+  siteUrl: 'https://atiq-urrehaman.vercel.app',
   siteRepo: 'https://github.com/Adam-Al-Rahman/e-portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',

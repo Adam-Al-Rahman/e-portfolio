@@ -13,3 +13,9 @@ Atiq Urrehaman is a B.tech Computer Science student specialization in Artificial
 He enjoy reading, researching & creating things. His interest in coding started, when he heard python programming language in one of a physics videos.
 
 Fast-forward to today, and he is studying in one of the well known college in India UPES located at Dehradun.
+|Field | Value |
+|:--|:--|
+|**Name**| Atiq Urrehaman|
+|**Course**| B.Tech CSE|
+|**SAP ID**| 500097175|
+|**Roll Number**| R2142211288|
